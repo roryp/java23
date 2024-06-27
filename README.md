@@ -1,6 +1,6 @@
 # Exploring the New Features in Java 23
 
-Java 23, released on September 17th, 2023, brings a host of new features and enhancements that every Java developer should be aware of. From flexible constructor bodies to structured concurrency, these updates aim to make Java more powerful and easier to use. In this article, we'll explore these new features and provide a comprehensive code example to demonstrate their usage.
+Java 23, brings a host of new features and enhancements that every Java developer should be aware of. From flexible constructor bodies to structured concurrency, these updates aim to make Java more powerful and easier to use. In this article, we'll explore these new features and provide a comprehensive code example to demonstrate their usage.
 
 ## Primitive Patterns (JEP 455)
 
